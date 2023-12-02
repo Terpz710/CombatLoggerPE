@@ -1,0 +1,5 @@
+name: CombatLoggerPE
+version: 1.0.0
+api: [4.0.0, 5.0.0]
+author: Terpz710
+main: Terpz710\CombatLoggerPE\Main
